@@ -1,3 +1,7 @@
+# chatting-app
+
+This project is a real-time chatting application built with the MERN stack.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
